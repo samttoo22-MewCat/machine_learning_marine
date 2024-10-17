@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+353,,,AIS NA0 -ARK320_61%,92854592,15,6.0,121.9888,24.362067,200.0,0,2024-04-20 02:46:43,248

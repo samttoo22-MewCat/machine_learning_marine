@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+5342,,,NET02736---11-99%,101102736,15,0.1,121.13966,26.827447,95.1,0,2024-04-19 20:36:37,3597
+5441,,,NET02736---11-99%,101102736,15,0.1,121.140325,26.827667,69.2,0,2024-04-19 20:54:21,3766

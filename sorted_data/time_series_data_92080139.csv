@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+1832,,,FLOAT-8025    [100%],92080139,15,0.7,120.323187,22.571713,198.0,0,2024-04-29 14:43:09,1142
+2187,,,FLOAT-8025    [100%],92080139,15,0.7,120.323187,22.571713,198.0,0,2024-04-29 14:51:10,1368

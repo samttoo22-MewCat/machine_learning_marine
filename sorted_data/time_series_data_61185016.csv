@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+50,,,NET16-ZHEPUYU61185  ,61185016,15,0.0,121.867012,24.585138,0.0,0,2024-04-18 12:57:59,32

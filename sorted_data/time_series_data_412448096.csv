@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+1873,,,MINPUYU00688        ,412448096,15,7.2,119.356093,25.068128,196.9,0,2024-04-16 19:33:06,1351
+1805,,,MINPUYU00688        ,412448096,15,0.7,119.350147,25.067373,99.0,0,2024-04-16 23:43:47,1299

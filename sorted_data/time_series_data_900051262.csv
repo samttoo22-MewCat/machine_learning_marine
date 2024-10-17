@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+2684,,, M Z Y 88366        ,900051262,15,2.2,117.287068,23.47963,23.7,30,2024-04-16 00:03:19,1866
+2450,,, M Z Y 88366        ,900051262,15,1.8,117.280343,23.477763,310.4,30,2024-04-16 01:11:52,1731

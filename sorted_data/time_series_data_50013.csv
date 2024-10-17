@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+5942,,,YU BIAO 0005-13_7.5V,50013,15,1.5,118.985053,24.865767,94.5,0,2024-04-20 18:49:40,4161
+5869,,,YU BIAO 0005-13_7.5V,50013,15,1.3,118.989067,24.86735,120.3,0,2024-04-20 18:58:17,4108

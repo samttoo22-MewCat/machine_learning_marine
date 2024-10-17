@@ -1,0 +1,4 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+4961,,,FU HAN              ,416350868,15,28.2,122.113705,25.485342,27.1,30,2024-04-29 05:33:01,3396
+4909,,,FU HAN              ,416350868,15,28.2,122.113705,25.485342,27.1,30,2024-04-29 05:33:01,3381
+4858,,,FU HAN              ,416350868,15,28.2,122.113705,25.485342,27.1,30,2024-04-29 05:33:01,3341

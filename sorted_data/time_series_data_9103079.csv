@@ -1,0 +1,4 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+559,,,ONWA1079          ,9103079,15,3.2,116.741073,23.233442,0.0,0,2024-04-27 06:31:22,401
+404,,,ONWA1079          ,9103079,15,3.2,116.741073,23.233442,0.0,0,2024-04-27 06:31:22,296
+494,,,ONWA1079          ,9103079,15,3.2,116.741073,23.233442,0.0,0,2024-04-27 06:31:22,358

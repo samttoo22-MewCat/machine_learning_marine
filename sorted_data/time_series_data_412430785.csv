@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+948,,DT84720,,412430785,15,5.2,121.071173,27.775738,50.5,30,2024-04-24 15:45:25,633
+871,,DT84720,,412430785,15,4.5,121.074763,27.779195,67.4,30,2024-04-24 15:48:55,644

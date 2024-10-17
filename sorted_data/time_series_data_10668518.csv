@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+5587,,,YU 08733-11 60%,10668518,15,7.1,120.300567,26.246338,356.0,0,2024-04-23 22:38:36,3680
+5607,,,YU 08733-11 50%,10668518,15,7.0,120.301493,26.26006,15.0,0,2024-04-23 22:45:52,3702

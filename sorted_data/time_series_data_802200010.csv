@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+4586,,,NET80220---10--36%  ,802200010,15,0.3,121.028832,27.353055,215.0,0,2024-04-19 00:41:47,2790
+4408,,,NET80220---10--99%  ,802200010,15,0.0,121.318538,27.54609,214.0,0,2024-04-25 01:02:48,2855

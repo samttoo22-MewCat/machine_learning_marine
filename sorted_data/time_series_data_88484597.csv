@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+6585,,,BUOY 1P     & 7V9,88484597,15,0.1,121.868608,24.903978,342.0,0,2024-04-27 11:49:32,4389

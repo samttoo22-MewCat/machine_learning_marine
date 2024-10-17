@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+3522,,,BUOY-13-03-99%      ,928006403,15,0.0,120.44785,22.468618,166.0,0,2024-04-18 10:31:42,2261
+4023,,,BUOY-13-03-99%      ,928006403,15,0.0,120.447828,22.468423,180.0,0,2024-04-18 10:38:48,2570

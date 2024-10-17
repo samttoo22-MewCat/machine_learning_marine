@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+5721,0,JVKX8  ,"ERE# ,DE,BU]<1 [/HQ",457556000,8,0.7,120.183435,22.721237,360.0,0,2024-04-23 07:02:55,3990
+5894,0,JVKX8  ,"ERE# ,DE,BU]<1 [/HQ",457556000,8,0.3,120.183393,22.721232,360.0,0,2024-04-23 07:07:43,4154

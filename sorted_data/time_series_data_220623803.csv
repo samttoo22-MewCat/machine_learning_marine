@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+4470,,,YU 06238-3-35%      ,220623803,15,0.1,120.602325,27.38794,180.0,0,2024-04-18 12:40:25,2752
+4732,,,YU 06238-3-34%      ,220623803,15,0.1,120.60224,27.388023,12.0,0,2024-04-18 13:03:09,2926

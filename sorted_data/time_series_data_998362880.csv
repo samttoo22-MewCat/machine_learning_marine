@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+6744,,,BUOY25603M16 $  7V5,998362880,15,0.1,121.843647,24.306472,9.7,0,2024-04-17 00:35:28,4686

@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+6726,,,AIS BUOY_69%        ,131466013,15,0.3,116.997802,20.331225,248.0,0,2024-04-22 15:13:02,4625

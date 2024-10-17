@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+1906,,       ,,900029472,15,2.4,121.95127,26.493905,88.3,30,2024-04-19 23:00:09,1363
+2104,,       ,,900029472,15,2.3,121.96499,26.493942,95.5,30,2024-04-19 23:18:38,1522

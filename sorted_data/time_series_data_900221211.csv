@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+4870,,,MIN JIN YU 02526    ,900221211,15,3.1,118.54801,24.294607,214.6,30,2024-04-17 10:10:38,3445
+5189,,,MIN JIN YU 02526    ,900221211,15,3.6,118.5442,24.295187,30.3,30,2024-04-22 05:38:49,3738

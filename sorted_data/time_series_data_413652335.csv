@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+188,,,KAI  DA 38,413652335,15,10.8,120.185853,26.45813,237.6,0,2024-04-18 01:53:06,134
+123,,,KAI  DA 38,413652335,15,11.9,120.133013,26.423155,233.2,0,2024-04-18 02:11:36,75

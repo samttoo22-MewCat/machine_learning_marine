@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+6747,,,HHANG               ,416568194,15,80.4,122.1232,25.890925,270.6,0,2024-04-28 09:36:35,4573
+6502,,,HHANG               ,416568194,15,3.4,122.103547,25.891227,271.5,0,2024-04-28 09:54:07,4412

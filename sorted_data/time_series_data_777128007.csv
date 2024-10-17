@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+4772,,,KKK-07_38%          ,777128007,15,0.1,122.979018,20.875315,246.0,0,2024-04-21 16:48:38,3236
+4656,,,KKK-07_38%          ,777128007,15,0.1,122.97873,20.87514,236.0,0,2024-04-21 16:52:04,3168

@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+3600,,,AHL4,393300006,15,0.0,119.88546,26.488047,0.0,0,2024-04-23 14:38:43,2418

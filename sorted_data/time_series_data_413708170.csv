@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+7752,0,BRBC,YUN SHUO 6,413708170,1,0.0,119.922783,26.454083,360.0,0,2024-04-16 12:07:16,5436

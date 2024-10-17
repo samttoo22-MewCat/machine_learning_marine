@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+4178,,,AIB 34658-08-93%    ,346580008,15,0.0,122.580522,22.0715,4.0,0,2024-04-20 17:57:31,2913
+4139,,,AIB 34658-08-93%    ,346580008,15,0.0,122.581908,22.072913,60.0,0,2024-04-20 19:45:34,2944

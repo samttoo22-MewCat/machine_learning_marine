@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+457,,,AIS NET MARK/89%   ,123000549,15,0.1,119.420628,23.19308,217.5,0,2024-04-28 10:20:10,283

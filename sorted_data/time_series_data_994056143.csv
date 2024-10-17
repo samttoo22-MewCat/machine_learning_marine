@@ -1,0 +1,4 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+3642,,,!0CVFZ           9V,994056143,15,0.1,121.817,24.846652,72.1,0,2024-04-25 05:28:45,2453
+4313,,,!0CVFZ           9V,994056143,15,0.1,121.817,24.846652,72.1,0,2024-04-25 05:28:45,2933
+4293,,,!0CVFZ           9V,994056143,15,0.1,121.817,24.846652,72.1,0,2024-04-25 05:28:45,2911

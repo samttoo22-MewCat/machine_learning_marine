@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+954,,,ZHEYUYU52018        ,412415499,15,9.1,121.851733,27.921837,312.0,0,2024-04-18 15:46:49,701
+712,,,ZHEYUYU52018        ,412415499,15,7.8,121.795827,27.985387,319.4,0,2024-04-18 16:21:25,495

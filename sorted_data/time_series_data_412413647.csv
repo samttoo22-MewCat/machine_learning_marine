@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+3314,,BHEG,,412413647,15,6.8,121.71154,28.57892,169.2,30,2024-04-19 04:58:48,2236
+3167,,BHEG,,412413647,15,4.8,121.706733,28.574517,249.0,30,2024-04-19 05:02:42,2132

@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+756,,PY80301,,412410318,0,0.0,121.142592,27.819022,176.9,30,2024-04-18 12:25:32,552
+363,,PY80301,,412410318,0,0.0,121.143345,27.819452,298.5,30,2024-04-18 20:44:57,241

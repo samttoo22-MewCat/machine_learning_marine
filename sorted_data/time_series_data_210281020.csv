@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+363,,,YU 02810-20-97%     ,210281020,15,0.1,120.613215,27.22436,292.0,0,2024-04-19 04:42:36,229
+438,,,YU 02810-20-97%     ,210281020,15,0.1,120.604895,27.218922,235.0,0,2024-04-19 06:00:01,301

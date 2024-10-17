@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+1010,,,ZHEXIANGYU50016     ,412438018,15,3.7,121.680155,27.205312,3.6,0,2024-04-23 05:38:30,793
+938,,       ,,412438018,15,2.9,121.682598,27.239233,358.2,30,2024-04-23 06:16:17,731

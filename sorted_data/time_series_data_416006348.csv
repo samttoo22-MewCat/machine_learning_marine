@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+2068,,,"EX""U;.P7P(7A:AQ0H",416006348,15,0.0,119.612772,23.738912,127.5,0,2024-04-19 06:11:56,1405
+2890,,,"EX""U;.P7P(7A:AQ0H",416006348,15,0.8,119.612783,23.738935,13.7,0,2024-04-19 06:15:55,1991

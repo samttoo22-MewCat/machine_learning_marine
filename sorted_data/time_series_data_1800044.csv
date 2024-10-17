@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+4045,,,01E800041 H     # 9V,1800044,15,0.0,121.871567,24.582333,228.8,0,2024-04-23 15:13:41,2721

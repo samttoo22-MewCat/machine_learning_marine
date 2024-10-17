@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+5222,,,FEIYAN              ,626239000,15,0.0,120.322615,22.574485,297.6,0,2024-04-16 10:59:17,3727
+4871,,,FEIYAN              ,626239000,15,0.0,120.322602,22.57445,328.4,0,2024-04-16 11:02:17,3459

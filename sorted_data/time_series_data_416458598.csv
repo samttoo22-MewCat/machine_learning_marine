@@ -1,0 +1,4 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+2056,,,WAI TAN             ,416458598,15,57.0,119.45549,23.55013,231.2,30,2024-04-28 02:42:33,1421
+1997,,,WAI TAN             ,416458598,15,57.0,119.45549,23.55013,231.2,30,2024-04-28 02:42:33,1365
+1984,,,WAI TAN             ,416458598,15,57.0,119.45549,23.55013,231.2,30,2024-04-28 02:42:33,1353

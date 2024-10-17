@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+398,,,YUENANAO88629       ,88629,15,9.3,117.062288,23.287673,184.1,30,2024-04-22 15:49:55,260
+455,,,YUENANAO88629       ,88629,15,8.8,117.052435,23.228935,187.1,30,2024-04-22 16:13:28,313

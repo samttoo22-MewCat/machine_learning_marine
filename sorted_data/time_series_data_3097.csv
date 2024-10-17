@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+6549,,,YUENANAO3097        ,3097,15,6.2,117.159523,23.318865,327.5,30,2024-04-16 10:01:54,4553
+6853,,,YUENANAO3097        ,3097,15,6.1,117.148915,23.331647,317.5,30,2024-04-16 10:11:28,4769

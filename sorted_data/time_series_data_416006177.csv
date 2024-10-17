@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+1518,0,CB3480 ,\HANC OLC50,416006177,0,15.9,119.561103,23.025382,234.5,30,2024-04-21 16:28:25,1096

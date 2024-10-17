@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+3045,,,NAN LAI 006         ,100917546,15,8.2,119.882452,25.463307,27.6,30,2024-04-16 12:18:11,2146
+2984,,,NAN LAI 006         ,100917546,15,13.6,119.874742,25.459628,50.2,30,2024-04-16 14:53:57,2137

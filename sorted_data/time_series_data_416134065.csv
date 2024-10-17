@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+4329,0,     ! ,LAAN   BNJ RONG,416134065,0,2.3,120.401385,22.400727,252.7,30,2024-04-16 04:49:13,3016

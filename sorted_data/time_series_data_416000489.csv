@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+1620,12,BR370  ,        ,416000489,15,85.9,121.274435,21.807585,101.0,0,2024-04-27 16:50:38,1132

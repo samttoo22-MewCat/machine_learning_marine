@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+299,,,,45815511,15,0.0,119.569412,23.670447,80.9,0,2024-04-20 15:12:40,184
+473,,,BUOY 815-511     8V0,45815511,15,2.8,119.569483,23.67035,351.2,0,2024-04-20 15:19:11,296

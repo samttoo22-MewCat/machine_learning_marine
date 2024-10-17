@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+4622,9355355,VRKZ9  ,MAERSK BA,477211100,5,0.0,121.753695,25.146268,356.7,0,2024-04-23 15:27:45,3055

@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+4608,,,NAMSHEN01015_______ ,799201015,15,9.2,116.848253,23.272897,30.3,30,2024-04-26 12:39:04,3027
+4967,,,NAMSHEN01015_______ ,799201015,15,9.2,116.848253,23.272897,30.3,30,2024-04-26 12:39:04,3272

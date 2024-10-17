@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+1911,,,JULIA               ,416005586,15,0.0,121.785072,25.146683,360.0,0,2024-04-26 15:26:34,1281
+1749,,,JULIA               ,416005586,15,10.4,121.791343,25.152517,355.8,0,2024-04-26 15:54:55,1173

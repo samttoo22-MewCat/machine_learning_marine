@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+3038,,,BUOY25839-02    12V5,994169062,15,0.0,121.868762,24.577428,360.0,0,2024-04-19 16:46:09,2099

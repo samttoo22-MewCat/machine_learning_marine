@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+4637,,,BA LUO,416068183,15,0.0,121.864265,24.582448,0.0,0,2024-04-27 14:24:14,2988
+4409,,,BA LUO,416068183,15,0.0,121.864368,24.58246,0.0,0,2024-04-27 14:27:14,2816

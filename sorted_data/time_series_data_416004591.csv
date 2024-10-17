@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+2562,,,JENQ HER FA         ,416004591,15,4.4,120.649725,22.035973,141.6,30,2024-04-17 07:08:58,1875
+2401,,,JENQ HER FA         ,416004591,15,6.1,121.468437,23.237867,196.5,30,2024-04-22 02:22:44,1742

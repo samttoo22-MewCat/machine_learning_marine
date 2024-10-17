@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+2663,,,ZHELUYU88799        ,412414781,15,0.6,122.12396,28.667715,197.8,0,2024-04-19 00:09:01,1745
+2559,,,ZHELUYU88799        ,412414781,15,0.5,122.12373,28.667317,197.8,0,2024-04-19 00:12:06,1664

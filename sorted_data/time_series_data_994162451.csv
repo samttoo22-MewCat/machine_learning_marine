@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+4098,,,BUOY34428-11      9V,994162451,15,2.4,122.472227,22.93221,244.5,0,2024-04-15 22:24:07,2876
+3889,,,BUOY34428-11      9V,994162451,15,2.0,122.472355,22.924755,100.8,0,2024-04-15 22:42:48,2755

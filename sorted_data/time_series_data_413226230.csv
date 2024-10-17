@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+1410,,,YI YANG 18,413226230,15,7.8,119.723613,26.75387,359.1,0,2024-04-23 16:24:55,995
+1504,,,YI YANG 18,413226230,15,6.4,119.714347,26.783868,342.8,0,2024-04-23 16:39:25,1039

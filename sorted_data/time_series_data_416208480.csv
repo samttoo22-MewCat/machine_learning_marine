@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+5739,0,       ,YI XING N,416208480,0,64.6,121.72502,25.376227,21.1,0,2024-04-19 19:21:28,3839
+5069,0,       ,YI XING N,416208480,0,1.7,121.428945,23.073602,25.7,0,2024-04-26 02:07:55,3331

@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+820,,BCN0659,,412433573,15,3.8,121.24047,27.797165,240.6,30,2024-04-19 05:32:57,599
+712,,BCN0659,,412433573,15,4.0,121.23527,27.79558,261.3,30,2024-04-19 05:37:57,527

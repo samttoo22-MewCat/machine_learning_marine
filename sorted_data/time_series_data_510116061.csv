@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+6125,,,YU 16061 -51  24%,510116061,15,1.0,118.86142,22.45896,162.0,0,2024-04-16 19:22:33,4238
+6159,,,YU 16061 -51  73%,510116061,15,0.6,118.85971,22.458188,53.0,0,2024-04-16 22:25:45,4294

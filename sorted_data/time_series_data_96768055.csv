@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+245,,,NET02768-55_7.4V,96768055,15,0.4,120.284653,26.251103,63.6,0,2024-04-20 00:57:44,183

@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+3388,,,,412026232,15,0.0,118.445107,24.28034,90.0,0,2024-04-19 05:12:46,2281
+3681,,,SHUNFENGYU3856---51,412026232,15,0.0,118.445248,24.280332,222.3,0,2024-04-19 15:45:54,2534

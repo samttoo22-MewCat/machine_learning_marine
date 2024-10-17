@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+914,,,MINLIANYU60931      ,412450728,15,4.7,120.145403,24.864193,53.1,0,2024-04-19 22:31:02,702
+994,,0.0,,412450728,15,0.1,119.924018,26.363512,168.1,30,2024-04-24 21:26:46,720

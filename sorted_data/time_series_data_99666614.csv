@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+6590,,,ZHANG--14_7.8V,99666614,15,1.0,120.561067,26.62804,137.3,0,2024-04-21 16:09:45,4441
+6279,,,ZHANG--14_7.8V,99666614,15,1.9,120.561,26.628007,68.3,0,2024-04-21 16:17:32,4227

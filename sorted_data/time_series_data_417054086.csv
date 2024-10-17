@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+3109,32768,BC8241,FU BINAH,417054086,15,8.2,121.872307,24.465992,262.2,30,2024-04-16 04:27:57,2192

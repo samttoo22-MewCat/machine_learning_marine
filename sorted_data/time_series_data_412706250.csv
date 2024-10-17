@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+1400,,,WEI ZHENG,412706250,15,3.7,118.186133,24.462557,8.1,0,2024-04-18 09:21:16,992
+1696,,,WEI ZHENG,412706250,15,7.0,118.189773,24.465,343.7,0,2024-04-20 09:01:24,1283

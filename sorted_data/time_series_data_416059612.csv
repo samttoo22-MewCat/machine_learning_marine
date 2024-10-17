@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+2483,,,TAIYU61888          ,416059612,15,77.9,118.243653,24.406105,51.8,30,2024-04-17 01:13:04,1745

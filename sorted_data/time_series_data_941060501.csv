@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+5736,,,GIA GHI 7-25%,941060501,15,5.6,117.45461,19.236415,274.1,0,2024-04-15 23:41:51,3837
+6094,,,GIA GHI 7-25%,941060501,15,4.7,117.44002,19.236615,278.7,0,2024-04-15 23:52:30,4065

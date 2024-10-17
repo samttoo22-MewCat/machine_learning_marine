@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+4510,,,MINHUIYU01283-04 30%,12830004,15,1.1,119.072573,24.60824,23.0,0,2024-04-22 17:27:34,3133
+4165,,,,12830004,15,0.8,119.074767,24.610988,33.0,0,2024-04-22 17:45:20,2916

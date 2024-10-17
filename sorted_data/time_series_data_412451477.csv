@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+647,,,MINPINGYU61666,412451477,15,0.0,119.842067,25.465543,0.0,30,2024-04-16 07:17:40,461
+825,,       ,,412451477,15,0.1,119.842127,25.465507,0.0,30,2024-04-16 10:17:24,618

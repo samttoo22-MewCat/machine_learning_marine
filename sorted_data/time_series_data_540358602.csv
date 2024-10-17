@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+5903,,,YU 03586-2-99%      ,540358602,15,0.1,120.780747,27.190468,128.0,0,2024-04-23 02:53:46,4027
+4957,,,YU 03586-2-97%      ,540358602,15,0.0,120.779967,27.188752,296.0,0,2024-04-23 04:11:25,3445

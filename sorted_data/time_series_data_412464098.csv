@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+1385,,,ZHEYUYU66333        ,412464098,15,0.0,121.25208,28.077457,101.4,0,2024-04-24 16:13:40,899
+1459,,,ZHEYUYU66333        ,412464098,15,0.0,121.25216,28.077437,120.0,0,2024-04-24 16:32:28,932

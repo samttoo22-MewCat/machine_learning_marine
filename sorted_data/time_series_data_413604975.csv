@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+5209,,,YU60497--5-71%      ,413604975,15,0.0,121.110367,26.88828,30.0,0,2024-04-23 09:23:43,3599
+5066,,,YU60497--5-71%      ,413604975,15,0.0,121.110752,26.888045,147.0,0,2024-04-23 10:01:19,3470

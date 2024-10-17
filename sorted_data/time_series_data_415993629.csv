@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+5672,0,BK8269,SHENG HONG YU,415993629,8,7.2,121.998127,24.627417,83.4,30,2024-04-16 19:49:52,3951

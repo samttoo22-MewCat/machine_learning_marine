@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+621,,,JX-7                ,5,15,6.6,117.074882,23.228008,341.8,0,2024-04-22 04:26:05,450

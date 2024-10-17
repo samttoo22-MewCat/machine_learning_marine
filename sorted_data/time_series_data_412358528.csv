@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+30,,,SHENG HANG 35,412358528,15,4.1,120.514278,26.347193,208.1,0,2024-04-20 08:04:52,24

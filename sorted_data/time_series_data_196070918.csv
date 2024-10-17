@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+5539,,,YU 00821=28-84%     ,196070918,15,0.0,119.999767,25.193928,279.8,0,2024-04-20 06:22:21,3987
+4712,,,YU 00821=28-44%     ,196070918,15,0.2,120.155352,25.365235,92.8,0,2024-04-27 13:58:10,3077

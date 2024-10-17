@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+1040,,,ZHELINGYU21851      ,412418447,15,3.1,121.76332,26.725623,349.4,0,2024-04-15 23:11:14,809
+1101,,       ,,412418447,15,1.7,121.885347,27.02097,25.4,30,2024-04-19 21:36:05,891

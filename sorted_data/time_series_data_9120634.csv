@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+267,,,ONWA20634,9120634,15,2.8,116.92383,22.283987,92.8,0,2024-04-16 12:03:28,180
+265,,,ONWA20634,9120634,15,2.8,116.932878,22.283705,93.2,0,2024-04-16 12:14:22,175

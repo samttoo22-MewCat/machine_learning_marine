@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+2524,123456789,       ,HORN SHING 16 $    ,416002550,15,9.6,121.870947,24.331232,353.7,30,2024-04-20 01:38:43,1822

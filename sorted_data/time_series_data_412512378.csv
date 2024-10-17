@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+2017,,,,412512378,15,2.4,121.845742,26.598168,75.7,0,2024-04-17 18:47:35,1401
+2751,,,FUXING666,412512378,15,6.6,121.902738,26.535268,172.1,0,2024-04-17 20:10:59,1935

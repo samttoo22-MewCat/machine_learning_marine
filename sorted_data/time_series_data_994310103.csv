@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+5862,,,994310103         9V,994310103,15,0.0,120.324693,22.573822,89.8,0,2024-04-25 14:57:33,3849
+5843,,,994310103         9V,994310103,15,0.0,120.324647,22.573827,9.8,0,2024-04-25 15:01:37,3794

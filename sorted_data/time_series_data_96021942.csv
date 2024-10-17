@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+1753,,,AIS NET M1RK_88%    ,96021942,15,13.3,121.988127,24.560647,195.2,0,2024-04-16 02:00:23,1235

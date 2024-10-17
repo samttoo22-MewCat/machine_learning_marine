@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+3899,,,FU HAI SHUN         ,416007977,15,56.3,120.727277,21.915577,114.6,30,2024-04-20 07:13:54,2844
+4287,,,FU HAI SHUN         ,416007977,15,56.8,120.737408,21.915477,74.6,30,2024-04-20 07:20:24,3141

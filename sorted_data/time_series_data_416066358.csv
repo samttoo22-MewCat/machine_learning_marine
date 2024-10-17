@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+2257,0,       ,CTR-CI0280,416066358,0,1.5,120.07725,23.330995,10.9,30,2024-04-20 05:09:12,1642

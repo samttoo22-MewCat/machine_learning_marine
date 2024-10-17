@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+1034,,,HOMG PU 338,412766320,5,0.1,120.598167,27.593482,51.0,0,2024-04-24 10:38:51,766
+1016,,,HOMG PU 338,412766320,15,9.8,121.06768,27.747948,61.8,0,2024-04-24 14:47:32,740

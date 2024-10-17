@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+2532,,,LONG WANG NO.8      ,416003887,15,9.9,121.895862,24.600392,45.8,30,2024-04-16 16:11:19,1764
+1961,,,LONG WANG NO.8      ,416003887,15,9.7,121.8806,24.59415,259.1,30,2024-04-18 22:22:09,1239

@@ -1,0 +1,4 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+431,,,TAIWAN              ,416458545,15,35.0,119.46216,23.676615,352.1,30,2024-04-29 09:18:06,275
+235,,,TAIWAN              ,416458545,15,35.0,119.46216,23.676615,352.1,30,2024-04-29 09:18:06,137
+118,,,TAIWAN              ,416458545,15,35.0,119.46216,23.676615,352.1,30,2024-04-29 09:18:06,67

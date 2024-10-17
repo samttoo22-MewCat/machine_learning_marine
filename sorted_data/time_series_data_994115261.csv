@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+5360,,,,994115261,15,0.0,120.324815,22.573852,90.0,0,2024-04-16 16:55:51,3671
+5348,,,KSU-061           9V,994115261,15,0.2,120.324827,22.573773,154.7,0,2024-04-16 16:59:58,3652

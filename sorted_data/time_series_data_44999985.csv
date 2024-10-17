@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+3811,,,BUOY 999-985     83%,44999985,15,0.0,121.868685,24.57744,73.0,0,2024-04-24 11:44:32,2348
+3657,,,BUOY 999-985     83%,44999985,15,0.1,121.868538,24.577427,213.9,0,2024-04-24 11:50:02,2271

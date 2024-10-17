@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+3696,,,BIAO 72001-11-99%   ,587200111,15,0.0,121.219545,26.708135,319.0,0,2024-04-24 05:48:42,2558
+3625,,,BIAO 72001-11-99%   ,587200111,15,0.0,121.2165,26.707405,41.8,0,2024-04-24 07:30:14,2457

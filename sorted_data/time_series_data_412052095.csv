@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+3470,,,KUOGON 99           ,412052095,15,10.4,118.378868,24.210108,216.6,0,2024-04-16 18:08:57,2474
+3481,,,KUOGON 99           ,412052095,15,10.3,118.365662,24.19809,212.1,0,2024-04-16 18:14:57,2490

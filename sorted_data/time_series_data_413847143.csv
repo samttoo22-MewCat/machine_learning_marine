@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+3340,0,       ,HAI YANG ,413847143,15,0.0,119.566045,26.12056,333.3,0,2024-04-29 15:03:53,2042
+3179,0,       ,HAI YANG ,413847143,15,0.0,119.56605,26.120572,333.3,0,2024-04-29 15:09:53,1965

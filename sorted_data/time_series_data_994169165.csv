@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+2312,,,BUOY24508-02     7V5,994169165,15,0.0,121.870737,24.580913,0.0,0,2024-04-24 15:07:32,1429

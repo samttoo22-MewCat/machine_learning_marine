@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+4219,,,,778854861,15,54.9,119.434413,24.926377,58.3,0,2024-04-16 21:55:22,2977
+4327,,,MINHUIYU04966       ,778854861,15,4.2,119.311525,24.92604,95.9,30,2024-04-21 15:10:35,2935

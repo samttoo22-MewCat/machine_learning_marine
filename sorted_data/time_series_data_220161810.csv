@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+5103,,,BIAO 01618-10-68%,220161810,15,0.0,120.654485,27.447062,106.8,0,2024-04-24 18:57:09,3182
+5099,,68%,,220161810,15,0.0,120.654385,27.44689,173.9,0,2024-04-24 19:29:57,3179

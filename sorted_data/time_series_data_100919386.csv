@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+3909,,,NANAO000939         ,100919386,15,8.1,116.981838,23.411903,259.9,30,2024-04-19 09:32:13,2734
+3888,,,NANAO000939         ,100919386,15,7.9,116.944343,23.417782,289.9,30,2024-04-19 09:47:59,2635

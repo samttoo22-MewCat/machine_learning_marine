@@ -1,0 +1,3 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+1227,,,ZHONG HE 958        ,413414010,15,0.0,120.671013,27.731812,324.5,0,2024-04-18 23:56:31,863
+1102,,,ZHONG HE 958        ,413414010,15,0.0,120.671042,27.731793,7.6,0,2024-04-19 00:23:32,793

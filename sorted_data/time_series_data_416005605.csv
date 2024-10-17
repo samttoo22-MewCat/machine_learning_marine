@@ -1,0 +1,2 @@
+fid,IMO_Number,Call_Sign,ShipName,MMSI,Navigational_Status,SOG,Longitude,Latitude,COG,Ship_and_Cargo_Type,Record_Time,group
+1580,,,METROPOLIS,416005605,15,0.1,121.408077,25.184978,360.0,0,2024-04-17 15:54:33,1075
